@@ -13,9 +13,6 @@ public class program {
         System.out.println("Odczytany tekst:\n" + odczytanyTekst);
 
 	}
-
-
- 
     
     public static String odczytajPlik(String nazwaPliku) {
         File plikDane = new File(nazwaPliku);      
